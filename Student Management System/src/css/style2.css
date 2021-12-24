@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.back_to_reg{
+    margin:30px;
+    margin-top: 30px;
+    color:#000;
+    text-decoration: none;
+}
+
+.back_div{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* .refr{
+    margin-left:30px;
+    margin-top:20px;
+    color:#000;
+    text-decoration: none;
+    font-size:20px;
+}
+
+.refr:hover{
+    text-decoration: underline;
+} */
+
+.h1-reg{
+    margin-left:30px;
+    margin-bottom: 40px;
+    margin-top: 50px;
+}
+
+#reg_form{
+    margin-left:30px;
+}
+
+.reg_p_inone{
+    margin-top:20px;
+    font-size:17px;
+}
+
+.reg_p_in{
+    font-size:17px;
+    margin-top:20px;
+}
+
+#reg{
+    width:420px;
+    padding:10px;
+    border:2px solid #000;
+}
+
+.reg_btn{
+    width:150px;
+    padding:9px;
+    margin-top:60px;
+    margin-bottom: 50px;
+    font-size:15px;
+    cursor: pointer;
+    background:rgb(46, 45, 45);
+    color:#fff;
+    border:2px solid rgb(46, 45, 45);
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+.reg_btn:hover{
+    color:#000;
+    background:#fff;
+    transition: .3s ease-in-out;
+}
+
+.options{
+    background: rgb(58, 57, 57);
+    width:120px;
+    padding:5px;
+    color:#fff;
+}
+
+#reg::-webkit-input-placeholder {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size:15px;
+  }
+
+#reg:-ms-input-placeholder {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size:15px;
+  }
+  
+#reg:-moz-placeholder {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size:15px;
+  }
+  
+#reg::-moz-placeholder {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size:15px;
+  }

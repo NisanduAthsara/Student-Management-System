@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.inline_ul{
+    display:inline-block;
+    background-color: #dddddd;
+    width:100%;
+}
+
+.h1{
+    display:inline-block;
+    font-size:20px;
+    padding-left: 20px;
+    padding-top: 2px;
+}
+
+.logout{
+    display: inline-block;
+}
+
+.log-out{
+    text-align: right;
+}
+
+li{
+    display: inline-block;
+    list-style-type: none;
+}
+
+li{
+    padding: 8px;
+}
+
+.right{
+    float:right;
+    font-size: 20px;
+    padding:10px;
+    padding-top:10px;
+    padding-right:20px;
+    font-weight: bold;
+    color:rgb(85, 39, 116);
+}
+
+.admin_h1{
+    font-size:25px;
+    margin-top:120px;
+    margin-left:30px;
+    margin-bottom: 35px;
+}
+
+.users_link{
+    margin-left:30px;
+    margin-top:20px;
+    background:rgb(161, 159, 159);
+    padding:10px;
+    width:200px;
+    padding-right:200px;
+    color:#000;
+    text-decoration: none;
+}
+
+.back_to{
+    margin:30px;
+    margin-bottom: 60px;
+}
+
+.back_to_a{
+    text-decoration: none;
+    color:#000;
+}
+
+.u_count{
+    margin-left:20px;
+    font-size:18px;
+}
+
+.add_new{
+    padding-left:10px;
+    text-decoration: none;
+    font-size:18px;
+    color:#000;
+}
+
+.add_new span{
+    margin-right:5px;
+    color:#000;
+}
+
+.af_ad{
+    margin-right:5px;
+    margin-left:5px;
+    font-size:18px;
+    color:#000;
+}
+
+.refresh{
+    text-decoration: none;
+    font-size:18px;
+    color:#000;
+}
+
+.add_new:hover{
+    text-decoration: underline;
+}
+
+.refresh:hover{
+    text-decoration: underline;
+}
+
+.fa-refresh{
+    margin-right:5px;
+}
+
+.fa-plus{
+    margin-right:5px;
+}
+
+#search{
+    width:70%;
+    padding:5px;
+    margin-top:10px;
+    margin-left:20px;
+    border:2px solid #000;
+}
+
+#u_table{
+    margin-left:20px;
+    margin-top:50px;
+}
+
+.details_up{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    color:#fff;
+    background: darkgreen;
+    width:340px;
+    padding:4px;
+    margin-right: 20px;
+}
+
+.not_details_up{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    color:#fff;
+    background: rgb(207, 36, 23);
+    width:240px;
+    padding:4px;
+}
+
+#search::-webkit-input-placeholder {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+  }
+
+#search:-ms-input-placeholder {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+  }
+  
+#search:-moz-placeholder {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+  }
+  
+#search::-moz-placeholder {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+  }
+
+
+  #u_table {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    border-collapse: collapse;
+    width: 90%;
+  }
+  
+  #u_table td, #u_table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    padding-right:3px;
+  }
+  
+  #u_table tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #u_table tr:hover {background-color: #ddd;}
+  
+  #u_table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #383a39;
+    color: white;
+  }
+  
+.edit_u_table,
+.del_u_table{
+    color:rgb(48, 12, 231);
+    text-decoration: none;
+}
+
+.edit_u_table:hover,
+.del_u_table:hover{
+    text-decoration: underline;
+}
+
+
+.info{
+    margin-top:20px;
+    padding:5px;
+    background: darkgreen;
+    color:#fff;
+    width:96%;
+}

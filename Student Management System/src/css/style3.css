@@ -1,0 +1,154 @@
+.back_to_reg{
+    margin:30px;
+    margin-top: 30px;
+    color:#000;
+    text-decoration: none;
+}
+
+.back_div{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.view_as_std{
+    text-decoration: none;
+    color:#000;
+}
+
+.fa-eye{
+    margin-right: 4px;
+    margin-left: 40px;
+}
+
+.view_as_std:hover{
+    text-decoration: underline;
+}
+
+.addnew_sec_p{
+    margin-left:40px;
+    margin-top:40px;
+    /* font-size:15px; */
+}
+
+.sec_formname{
+    margin-left:40px;
+    padding:5px;
+    width:300px;
+    border:2px solid black;
+}
+
+#sec_formname_btn{
+    padding:4px;
+    width:70px;
+    border:2px solid #000;
+    background:#000;
+    color:#fff;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size:15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+#sec_formname_btn:hover{
+    background: #fff;
+    color: #000;
+    transition: 0.3s ease-in-out;
+}
+
+#sec_name_id{
+    margin-left:40px;
+    margin-top:40px;
+}
+
+#sec_name_id {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    border-collapse: collapse;
+    width: 90%;
+  }
+  
+  #sec_name_id td, #sec_name_id th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    padding-right:3px;
+  }
+  
+  #sec_name_id tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #sec_name_id tr:hover {background-color: #ddd;}
+  
+  #sec_name_id th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #383a39;
+    color: white;
+  }
+
+.sec_name_txt{
+    color:#000;
+    text-decoration: none;
+}
+
+.sec_name_blue{
+    color:rgb(48, 12, 231);
+}
+
+.sec_name_txt:hover{
+    text-decoration: underline;
+}
+
+.sec_name_blue:hover{
+    text-decoration: underline;
+}
+
+.semester_op{
+    margin-left: 40px;
+    width:150px;
+    background:rgb(64, 66, 66);
+    color:#fff;
+    padding:5px;
+    margin-bottom: 15px;
+}
+
+.sec_formname{
+    margin-bottom: 15px;
+}
+
+.addnew_sec_p{
+    margin-bottom: 15px;
+}
+
+.sec_submit{
+    margin-top:15px;
+    margin-left: 40px;
+    padding:5px;
+    width:120px;
+    background:#000;
+    color:#fff;
+    border:2px solid #000;
+    cursor: pointer;
+    border-radius: 4px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.sec_submit:hover{
+    background: #fff;
+    color:#000;
+    transition: .3s ease-in-out;
+}
+
+.crnt_sec_name_div{
+    margin-left:40px;
+    /* font-size: */
+    margin-top:40px;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.fa-long-arrow-right{
+    margin-right:5px;
+}
