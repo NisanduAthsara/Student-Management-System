@@ -2,10 +2,10 @@
 Student Management System created by Nisandu Athsara. This project help you to manage your student's details. And student salso can log in and watch their profiles and view their other details. I made this website using CRUD technology.<br/><br/>
 <h3><u>Technologies used</u></h3>
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>PHP</li>
-  <li>Mysql</li>
+  <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></li>
+  <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></li>
+  <li><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></li>
+  <li><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></li>
 </ul><br/>
 <h3><u>Functions</u></h3>
 <ul>
@@ -37,4 +37,5 @@ Student Management System created by Nisandu Athsara. This project help you to m
   <li>After that you can make your own account on teachers section</li>
   <li>After that you can use this project as you want</li>
   <li>If you didn't know how to use, you can click each secion and check how is it works! Don't worry this system is very simple</li>
-</ul>
+</ul><br/><br/>
+<img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"><img src="https://img.shields.io/github/followers/NisanduAthsara.svg?style=social&label=Follow&maxAge=2592000"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisanduAthsara&theme=blue-green"/>
