@@ -37,5 +37,6 @@ Student Management System created by Nisandu Athsara. This project help you to m
   <li>After that you can make your own account on teachers section</li>
   <li>After that you can use this project as you want</li>
   <li>If you didn't know how to use, you can click each secion and check how is it works! Don't worry this system is very simple</li>
-</ul><br/><br/>
+</ul>
+<br/><br/>
 <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg"><img src="https://img.shields.io/github/followers/NisanduAthsara.svg?style=social&label=Follow&maxAge=2592000"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisanduAthsara&theme=blue-green"/>
